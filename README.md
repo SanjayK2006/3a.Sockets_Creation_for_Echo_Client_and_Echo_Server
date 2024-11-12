@@ -51,10 +51,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
 ```
 ## OUTPUT:
 ### server:
-![alt text](image.png)
+![3as](https://github.com/user-attachments/assets/6891de4a-0232-404a-aaaa-76b01ea55c93)
 
 ### client:
-![alt text](image-1.png)
+![3ac](https://github.com/user-attachments/assets/8a239568-d512-4857-a33b-f04f01d039c4)
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
 was successfully created and executed.
